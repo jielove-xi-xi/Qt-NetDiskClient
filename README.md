@@ -1,6 +1,8 @@
 # Qt-NetClient
 ## 客户端结构
 
+服务端：https://github.com/jielove-xi-xi/NetDisk
+
 1、Window系统（使用Qt跨平台框架，也可简单部署到其它系统）
 
 2、Openssl安全加密传输
